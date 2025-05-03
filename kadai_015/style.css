@@ -1,0 +1,36 @@
+  body{
+    font-family:"Arial","Meiryo",sans-serif;
+    text-align: center;
+   }
+  .decoration{
+    font-size: 16px;
+  }
+  .skyblue{
+    color: skyblue;
+  }
+  .pink{
+    color: rgb(255,192,203);
+  }
+  .text-bold{
+font-weight: bold;
+}
+.text-decoration{
+  text-decoration: underline;
+}
+.text-shadow{
+  text-shadow: 1px 1px 2px gray;
+}
+.letter-spacing{
+  letter-spacing: 1.2em;
+}
+:root{
+  font-size: 16px;
+  /* ルート要素のフォントサイズを16pxに設定 */
+}
+h1{
+  font-size: 2em;
+  /* ルート要素の2倍のサイズに設定 */
+  font-family: "Josefin Sans",sans-serif;
+  border-bottom: 3px;
+  color: rgb(115, 115, 114);
+}
